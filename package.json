@@ -1,0 +1,14 @@
+{
+  "name": "dashboard-preprocesador",
+  "version": "1.0.0",
+  "description": "Preprocesador de los datos de origen sobre deudores morosos para el servicio de morosidad de .Mind",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jorge Neder",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx-populate": "^1.21.0"
+  }
+}
